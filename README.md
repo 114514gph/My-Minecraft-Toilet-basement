@@ -8,7 +8,7 @@
 > 源代码中的世界请用***Minecraft1.21.8***游玩
 
 > [!CAUTION]
-> ***请使用<ins>对应的Minecraft版本</ins>打开存档：***（v0.5-alpha = 1.21.5，v1.0-release ≈ 1.21.7（也可能是1.21.6），v1.1-release = 1.21.8）
+> ***请使用<ins>对应的Minecraft版本</ins>打开存档：***（v0.5-alpha ≈ 1.21.5（也可能是1.21.4），v1.0-release ≈ 1.21.7（也可能是1.21.6），v1.1-release = 1.21.8）
 
 ***许可:*** **麻省理工学院许可证**
 
@@ -23,7 +23,7 @@
 > 原始程式碼中的世界請用***Minecraft1.21.8***遊玩
 
 > [!CAUTION]
-> ***請使用<ins>對應的Minecraft版本</ins>打開存檔：***（v0.5-alpha = 1.21.5，v1.0-release ≈ 1.21.7（也可能是1.21.6），v1.1-release = 1.21.8）
+> ***請使用<ins>對應的Minecraft版本</ins>打開存檔：***（v0.5-alpha ≈ 1.21.5（也可能是1.21.4），v1.0-release ≈ 1.21.7（也可能是1.21.6），v1.1-release = 1.21.8）
 
 ***許可：*** **麻省理工學院許可證**
 
@@ -33,14 +33,14 @@
 
 ## My-Minecraft-Toilet-basement.
 ### My "Minecraft" world,a Toilet basement.
-There is a bedroom,a living room,a bathroom,a studio,a Esports room,a Sauna room,a kitchen,a workshop......and more!
+It features a bedroom, living room, bathroom, studio, gaming room, sauna, kitchen, workshop... and more!
 
 > [!TIP]
-> The world in the source code can be played with ***Minecraft 1.21.8***.
+> The world in the source code is played with ***Minecraft 1.21.8***.
 
 > [!CAUTION]
-> ***Please <ins>open the save with the corresponding version of Minecraft</ins>:*** (v0.5-alpha = 1.21.5, v1.0-release ≈ 1.21.7(It could also be 1.21.6)，v1.1-release = 1.21.8)
+> ***Please <ins>use the corresponding Minecraft version to open the save file</ins>:*** (v0.5-alpha ≈ 1.21.5(maybe 1.21.4), v1.0-release ≈ 1.21.7(maybe 1.21.6)，v1.1-release = 1.21.8)
 
-***License:*** **MIT**
+***License:*** **MIT License**
 
 
