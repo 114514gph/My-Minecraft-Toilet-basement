@@ -10,7 +10,7 @@
 > [!CAUTION]
 > ***请使用<ins>对应的Minecraft版本</ins>打开存档：***（v0.5-alpha ≈ 1.21.5（也可能是1.21.4），v1.0-release ≈ 1.21.7（也可能是1.21.6），v1.1-release = 1.21.8）
 
-## ***许可:*** **麻省理工学院许可证**
+### ***许可:*** **麻省理工学院许可证**
 
 
 
@@ -25,7 +25,7 @@
 > [!CAUTION]
 > ***請使用<ins>對應的Minecraft版本</ins>打開存檔：***（v0.5-alpha ≈ 1.21.5（也可能是1.21.4），v1.0-release ≈ 1.21.7（也可能是1.21.6），v1.1-release = 1.21.8）
 
-## ***許可：*** **麻省理工學院許可證**
+### ***許可：*** **麻省理工學院許可證**
 
 
 
@@ -41,6 +41,6 @@
 > [!CAUTION]
 > ***Please <ins>use the corresponding Minecraft version to open the save file</ins>:*** (v0.5-alpha ≈ 1.21.5(maybe 1.21.4), v1.0-release ≈ 1.21.7(maybe 1.21.6)，v1.1-release = 1.21.8)
 
-## ***License:*** **MIT License**
+### ***License:*** **MIT License**
 
 
