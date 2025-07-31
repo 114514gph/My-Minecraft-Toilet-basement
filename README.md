@@ -1,4 +1,4 @@
-# zh-cn:
+# 中文（简体）：
 
 ## 我的Minecraft厕所地下室。
 ### 我的“Minecraft”存档，一个厕所地下室。
@@ -14,7 +14,7 @@
 
 
 
-# zh-tw:
+# 中文（繁體）：
 ## 我的Minecraft廁所地下室。
 ### 我的“Minecraft”存檔，一個廁所地下室。
 #### 這裡有臥室、客廳、浴室、工作室、電競室、桑拿房、廚房、工作間......以及更多！
@@ -29,7 +29,7 @@
 
 
 
-# en-us:
+# English:
 
 ## My-Minecraft-Toilet-basement.
 ### My "Minecraft" world,a Toilet basement.
